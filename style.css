@@ -12,4 +12,6 @@ border-bottom: 4px solid white;
 
 section{
     background-image: linear-gradient(#AEDEFC,#7752FE);
+    padding: 80px;
+    padding-bottom: 80px;
 }
