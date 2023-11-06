@@ -9,3 +9,7 @@ padding: 20px;
 font-size: 32px;
 border-bottom: 4px solid white;
 }
+
+section{
+    background-image: linear-gradient(#AEDEFC,#7752FE);
+}
